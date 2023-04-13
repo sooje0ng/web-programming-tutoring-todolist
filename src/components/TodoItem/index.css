@@ -1,0 +1,14 @@
+.todo_item_container {
+}
+
+.todo_item_wrapper {
+  display: flex;
+  align-items: center;
+  width: 98%;
+  height: 50px;
+  margin: 0 auto 10px auto;
+  border: 1px solid black;
+}
+
+.todo_item {
+}

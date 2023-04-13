@@ -1,0 +1,14 @@
+.main_container {
+  width: 800px;
+  height: 1000px;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.todoList_container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 600px;
+  height: 100%;
+}
